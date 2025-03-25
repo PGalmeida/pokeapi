@@ -65,3 +65,7 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests
 ## ✨ Autor
 
 Pedro Gomes de Almeida
+
+## Deploy
+
+Você pode acessar o deploy do projeto [aqui](https://pokeapi-one-pi.vercel.app/).
